@@ -1,3 +1,4 @@
+
 // getting all required elements
 const inputBox = document.querySelector(".inputField input");
 const addBtn = document.querySelector(".inputField button");
