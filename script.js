@@ -1,9 +1,9 @@
 
 // getting all required elements
-const inputBox = this.document.querySelector(".inputField input");
-const addBtn = this.document.querySelector(".inputField button");
-const todoList = this.document.querySelector(".todoList");
-const deleteAllBtn = this.document.querySelector(".footer button");
+const inputBox = document.querySelector(".inputField input");
+const addBtn = document.querySelector(".inputField button");
+const todoList = document.querySelector(".todoList");
+const deleteAllBtn =document.querySelector(".footer button"); 
 
 // onkeyup event
 inputBox.onkeyup = ()=>{
